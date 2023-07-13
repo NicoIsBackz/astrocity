@@ -1653,7 +1653,7 @@ only screen and (-o-min-device-pixel-ratio:5/4),
 only screen and (-webkit-min-device-pixel-ratio:1.25),
 only screen and (min-resolution:120dpi) {
     a.normal-logo {
-        background-image: url()
+        background-image: url(https://cdn.discordapp.com/attachments/1116124596140265593/1129008607632052234/1688972389023.jpg)
     }
     a.sticky-logo {}
 }
