@@ -1653,13 +1653,7 @@ only screen and (-o-min-device-pixel-ratio:5/4),
 only screen and (-webkit-min-device-pixel-ratio:1.25),
 only screen and (min-resolution:120dpi) {
     a.normal-logo {
-        background-image: url(https://www.imperorp.com/wp-content/uploads/2021/11/LOGOTYPE.png)
-    }
-    a.light-logo {
-        background-image: url(https://www.imperorp.com/wp-content/uploads/2017/02/logo_white_HDR.png)
-    }
-    a.dark-logo {
-        background-image: url(https://www.imperorp.com/wp-content/uploads/2017/02/logo_HDR.png)
+        background-image: url()
     }
     a.sticky-logo {}
 }
